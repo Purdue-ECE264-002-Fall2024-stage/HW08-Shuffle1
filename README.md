@@ -19,8 +19,8 @@ Learning Goals
 Please read both Part 1 and Part 2
 ==================================
 
-This assignment (part 1, HW09) asks you to shuffle cards only
-once. The next assignment (part 2, HW10) asks you to shuffle cards
+This assignment (part 1, HW08) asks you to shuffle cards only
+once. The next assignment (part 2, HW09) asks you to shuffle cards
 multiple times.  Please read both parts so that you can reuse part 1
 as much as possible.
 
@@ -291,7 +291,7 @@ handled if your program's output is sorted.  The following command
 sorts your program's output before storing the result in the filled
 called `output4`.
 
-`./hw10 4 | sort > output4`
+`./hw08 4 | sort > output4`
 
 Another negligible difference is additional space. For example,
 
